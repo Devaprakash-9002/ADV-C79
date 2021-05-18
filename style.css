@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.person {
+    margin: 10px;
+}
+
+#submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_btn {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#display_all_students {
+    font-weight: bold;
+}
